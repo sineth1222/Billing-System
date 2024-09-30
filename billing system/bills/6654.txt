@@ -1,0 +1,16 @@
+		 Welcome PARDAR Market Place
+
+ BILL Number :6654
+ Customer Name :Sineth
+ Phone Number :07050889955
+ Customer Email :Sinethmashenka@gmail.com
+====================================================================
+ Products			QTY			Price
+==================================================================== Polo			1			2000
+ Spykar			1			8200
+
+====================================================================
+ Sub Amount: 			Rs.10200.00
+ Tax Amount: 			Rs.10.00
+ Total Amount: 			Rs.102010.00
+====================================================================

@@ -1,0 +1,19 @@
+		 Welcome PARDAR Market Place
+
+ BILL Number :6308
+ Customer Name :ssss
+ Phone Number :sss
+ Customer Email :sssssssss
+====================================================================
+ Products			QTY			Price
+==================================================================== Levis			1			5000
+ Levis			1			5000
+ Levis			1			5000
+ Levis			1			5000
+ Levis			1			5000
+
+====================================================================
+ Sub Amount: 			
+ Tax Amount: 			
+ Total Amount: 			
+====================================================================

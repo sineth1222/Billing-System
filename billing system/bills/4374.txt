@@ -1,0 +1,18 @@
+		 Welcome PARDAR Market Place
+
+ BILL Number :4374
+ Customer Name :sineth
+ Phone Number :0705089955
+ Customer Email :sinethmashenka1222@gmail.com
+====================================================================
+ Products			QTY			Price
+====================================================================  
+Levis			1			5000
+ Mufti			1			4500
+ Mufti			1			4500
+
+====================================================================
+ Sub Amount: 			
+ Tax Amount: 			
+ Total Amount: 			
+====================================================================
